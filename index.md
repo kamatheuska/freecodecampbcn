@@ -4,7 +4,7 @@ FreeCodeCamp is a non profit initiative for anyone to learn to code. [Visit webs
 
 ## FreeCodeCamp BCN
 
-Welcome to FreeCodeCamp Barcelona. Anyone that want's to learn to code is welcome to our meetups. Currently we organize every 2 weeks on Tuesday our meetups. Come alone or with friends and meet other ladies, gents or LGBTQ that are starting to program. The goal of the meetups is to gather people of all levels so they can exchange experience and advice on getting familiar with programming.
+Welcome to FreeCodeCamp Barcelona. Anyone that want's to learn to code is welcome to our meetups. Currently we organize every 2 weeks on Tuesday our meetups. Come alone or with friends and meet other people that are starting to program. The goal of the meetups is to gather people of all levels so they can exchange experience and advice on getting familiar with programming.
 
 People with any level of experience are more than welcome to advice, assist or coach the FreeCodeCamp students. 
 
