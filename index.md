@@ -16,6 +16,9 @@ Yes, it's non profit
 ### What shoul I bring?
 A laptop if you want to team up with others or want help with your own projects.
 
+### Do I need to speak English?
+No you don't, it is true that the students exists out of a very international mix, you're not required to be fluent in English. Note that the primary communication regarding the meetups will be conducted in English, but you're free to talk during the meetups in the language you're comfortable in.
+
 ## Next Event
 Tuesday, 9th of January from 18:30 till 20:30
 
