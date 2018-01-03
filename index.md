@@ -31,4 +31,6 @@ Carrer d'Àlaba 61,
 Note : You might need to ring the bell to enter. Take the elevator to the 5th floor.
 
 ## Contact
+
 - contact@segersian.com
+- Twitter : @segersian
