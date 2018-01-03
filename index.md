@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/SegersIan/freecodecampbcn/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+FreeCodeCamp is a non profit initiative for anyone to learn to code. (Visit website)[https://www.freecodecamp.org/]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## FreeCodeCamp BCN
 
-### Markdown
+Welcome to FreeCodeCamp Barcelona. Anyone that want's to learn to code is welcome to our meetups. Currently we organize every 2 weeks on Tuesday our meetups. Come alone or with friends and meet other ladies, gents or LGBTQ that are starting to program. The goal of the meetups is to gather people of all levels so they can exchange experience and advice on getting familiar with programming.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+People with any level of experience are more than welcome to advice, assist or coach the FreeCodeCamp students. 
 
-```markdown
-Syntax highlighted code block
+## Questions
 
-# Header 1
-## Header 2
-### Header 3
+### Is it free?
+Yes, it's non profit
 
-- Bulleted
-- List
+### What shoul I bring?
+A laptop if you want to team up with others or want help with your own projects.
 
-1. Numbered
-2. List
+## Next Event
+Tuesday, 9th of January from 18:30 till 20:30
 
-**Bold** and _Italic_ and `Code` text
+## Location
+The people at Itnig, a startup incubator in Barcelona, are so kind to let us gather on their premises, providing us free wifi and tables to work on!
 
-[Link](url) and ![Image](src)
-```
+ITNIG (floor 5)
+Carrer d'Àlaba 61, 
+08005 Barcelona
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+(google maps)[https://goo.gl/maps/yeix8tqJF7M2]
 
-### Jekyll Themes
+Note : You might need to ring the bell to enter. Take the elevator to the 5th floor.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SegersIan/freecodecampbcn/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact
+- contact@segersian.com
