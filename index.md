@@ -35,8 +35,15 @@ Note : You might need to ring the bell to enter. Take the elevator to the 5th fl
 
 ## Contact
 
+Ian Segers
+
 - Email : contact@segersian.com
 - Twitter : [@segersian](https://twitter.com/SegersIan)
+
+Nicolas Ramirez 
+
+- Email : nico9017@gmail.com
+- Twitter : [@nikameush](https://twitter.com/nikameush)
 
 ## LINKS
 - [Website](https://www.freecodecamp.org/)
