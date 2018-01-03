@@ -1,6 +1,6 @@
 ## About
 
-FreeCodeCamp is a non profit initiative for anyone to learn to code. (Visit website)[https://www.freecodecamp.org/]
+FreeCodeCamp is a non profit initiative for anyone to learn to code. [Visit website](https://www.freecodecamp.org/)
 
 ## FreeCodeCamp BCN
 
@@ -26,7 +26,7 @@ ITNIG (floor 5)
 Carrer d'Àlaba 61, 
 08005 Barcelona
 
-(google maps)[https://goo.gl/maps/yeix8tqJF7M2]
+[google maps](https://goo.gl/maps/yeix8tqJF7M2)
 
 Note : You might need to ring the bell to enter. Take the elevator to the 5th floor.
 
@@ -34,3 +34,7 @@ Note : You might need to ring the bell to enter. Take the elevator to the 5th fl
 
 - contact@segersian.com
 - Twitter : @segersian
+
+## LINKS
+- [Website](https://www.freecodecamp.org/)
+- [Facebook Group](https://www.facebook.com/groups/free.code.camp.barcelona/?ref=br_rs)
