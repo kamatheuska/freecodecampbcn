@@ -11,7 +11,7 @@ People with any level of experience are more than welcome to advice, assist or c
 ## Questions
 
 ### is this an official meetup?
-No, FreeCodeCamp is non profit and encourages meetups but there is no such thing as an "Official" meetup. Everyone is free to organize or host one. If you would like to organize on yourself, you are free to do so. We are always open to join forces of sit together to share our experiences.
+No, FreeCodeCamp is non profit and encourages meetups but there is no such thing as an "Official" meetup. Everyone is free to organize or host one. If you would like to organize one yourself, you are free to do so. We are always open to join forces or sit down together to share our experiences.
 
 ### Is it free?
 Yes, it's non profit
