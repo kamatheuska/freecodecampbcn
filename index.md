@@ -9,7 +9,7 @@ Welcome to FreeCodeCamp Barcelona. Anyone that want's to learn to code is welcom
 People with any level of experience are more than welcome to advice, assist or coach the FreeCodeCamp students. 
 
 ## Next Event
-Tuesday, 23th of January from 18:30 till 20:30
+Tuesday, 23th of January 2018 from 18:30 till 20:30 @Itnig
 
 ## Location
 The people at Itnig, a startup incubator in Barcelona, are so kind to let us gather on their premises, providing us free wifi and tables to work on!
@@ -49,7 +49,7 @@ A laptop if you want to team up with others or want help with your own projects.
 No you don't, it is true that the students exists out of a very international mix, you're not required to be fluent in English. Note that the primary communication regarding the meetups will be conducted in English, but you're free to talk during the meetups in the language you're comfortable in.
 
 ## Past Events
-- Tuesday, 9th of January from 18:30 till 20:30 @Itnig
+- Tuesday, 9th of January 2018 from 18:30 till 20:30 @Itnig
 
 ## LINKS
 - [Website](https://www.freecodecamp.org/)
