@@ -8,20 +8,6 @@ Welcome to FreeCodeCamp Barcelona. Anyone that want's to learn to code is welcom
 
 People with any level of experience are more than welcome to advice, assist or coach the FreeCodeCamp students. 
 
-## Questions
-
-### is this an official meetup?
-No, FreeCodeCamp is non profit and encourages meetups but there is no such thing as an "Official" meetup. Everyone is free to organize or host one. If you would like to organize one yourself, you are free to do so. We are always open to join forces or sit down together to share our experiences.
-
-### Is it free?
-Yes, it's non profit
-
-### What shoul I bring?
-A laptop if you want to team up with others or want help with your own projects.
-
-### Do I need to speak English?
-No you don't, it is true that the students exists out of a very international mix, you're not required to be fluent in English. Note that the primary communication regarding the meetups will be conducted in English, but you're free to talk during the meetups in the language you're comfortable in.
-
 ## Next Event
 Tuesday, 9th of January from 18:30 till 20:30
 
@@ -47,6 +33,23 @@ Nicolas Ramirez
 
 - Email : nico9017@gmail.com
 - Twitter : [@nikameush](https://twitter.com/nikameush)
+
+## Questions
+
+### is this an official meetup?
+No, FreeCodeCamp is non profit and encourages meetups but there is no such thing as an "Official" meetup. Everyone is free to organize or host one. If you would like to organize one yourself, you are free to do so. We are always open to join forces or sit down together to share our experiences.
+
+### Is it free?
+Yes, it's non profit
+
+### What shoul I bring?
+A laptop if you want to team up with others or want help with your own projects.
+
+### Do I need to speak English?
+No you don't, it is true that the students exists out of a very international mix, you're not required to be fluent in English. Note that the primary communication regarding the meetups will be conducted in English, but you're free to talk during the meetups in the language you're comfortable in.
+
+## Past Events
+- Tuesday, 9th of January from 18:30 till 20:30 @Itnig
 
 ## LINKS
 - [Website](https://www.freecodecamp.org/)
