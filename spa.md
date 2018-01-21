@@ -1,3 +1,5 @@
+You can find the English version [here](https://segersian.github.io/freecodecampbcn)
+
 ## Acerca de FreeCodeCamp
 
 FreeCodeCamp es una iniciativa sin ánimo de lucro para cualquiera que quiera aprender a programar. [WEBSITE](https://www.freecodecamp.org/)
