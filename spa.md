@@ -34,11 +34,13 @@ Ian Segers
 
 - Email : contact@segersian.com
 - Twitter : [@segersian](https://twitter.com/SegersIan)
+- Idiomas : 🇬🇧 (inglés) y 🇳🇱 (holandés)
 
 Nicolas Ramirez 
 
 - Email : nico9017@gmail.com
 - Twitter : [@nikameush](https://twitter.com/nikameush)
+- Idiomas : 🇬🇧 (inglés) y 🇪🇸 (español) & 🇩🇪 (alemán)
 
 ## Preguntas
 
