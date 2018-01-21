@@ -57,8 +57,8 @@ A laptop if you want to team up with others or want help with your own projects.
 ### Do I need to speak English?
 No you don't, it is true that the students exists out of a very international mix, you're not required to be fluent in English. Note that the primary communication regarding the meetups will be conducted in English, but you're free to talk during the meetups in the language you're comfortable in.
 
-### I didn't like a meetup or what happend during a meetup
-Please contact one of the organizers. We will treat your feedback with absolute anonymity and respect. We're open for any feedback from the community and if you had any negative experiences, please do share. We want to be a welcoming and open community with mutual respect. If you feel this was not the case, please do contact us.
+### I didn't like a meetup or what happended during a meetup
+Please contact one of the organizers. We will treat your feedback with absolute anonymity and respect. We're open for any feedback from the community and if you had any negative experiences, please do share. We want to be a welcoming and open community with mutual respect. If you feel this was not the case, please contact us.
 
 ## Past Events
 - Tuesday, 9th of January 2018 from 18:30 till 20:30 @Itnig
