@@ -1,3 +1,5 @@
+You can find the Spanish version [here](https://segersian.github.io/freecodecampbcn/spa.html)
+
 ## About
 
 FreeCodeCamp is a non profit initiative for anyone to learn to code. [Visit website](https://www.freecodecamp.org/)
