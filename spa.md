@@ -44,7 +44,7 @@ Nicolas Ramirez
 No lo hay, puedes venir tengas el nivel que tengas. Viene gente de todos los niveles que se ayudan los unos a los otros. No tengas vergüenza de preguntar, no hay preguntas tontas. Para la mayoría la programación es algo nuevo que están empezando a explorar, es normal tener dudas.
 
 ### ¿Es un meetup oficial?
-No, FreeCodeCamp es --- --- y anima a organizar meetups, pero no existe algo asi como un meetup "oficial". Todos en el grupo son libres de organizar o ser anfitriones de una. Si quieres organizar una tu mismo 
+No, FreeCodeCamp es una organización sin ánimo de lucro y anima a organizar meetups, pero no existe algo asi como un meetup "oficial". Todos en el grupo son libres de organizar o ser anfitriones de una. Si quieres organizar una tu mismo 
 
 ### ¿Es gratuito?
 Sí, es sin ánimo de lucro.
