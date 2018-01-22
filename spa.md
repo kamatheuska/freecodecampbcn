@@ -2,7 +2,7 @@ You can find the English version [here](https://segersian.github.io/freecodecamp
 
 ## Acerca de FreeCodeCamp
 
-FreeCodeCamp es una iniciativa sin ánimo de lucro para cualquiera que quiera aprender a programar. [WEBSITE](https://www.freecodecamp.org/)
+FreeCodeCamp es una iniciativa sin ánimo de lucro para cualquiera que quiera aprender a programar. [website](https://www.freecodecamp.org/)
 
 ## FreeCodeCamp BCN
 
@@ -63,7 +63,7 @@ No, no es necesario. Es cierto que hay estudiantes de distintas partes del mundo
 Ponte en contacto con uno de los organizadores. Trataremos tu feedback con el mayor respeto y anonimato. Estamos abiertos al feedback de la comunidad y si has tenido alguna experiencia negativa te agradeceríamos que la compartieras. Queremos ser una comunidad abierta y respetuosa. Si sientes que no es así, por favor ponte en contacto con nosotros.
 
 ## Eventos pasados
-- Martes, 9 de January del 2018 de las 18:30 hasta las 20:30 @Itnig
+- Martes, 9 de Enero del 2018 de las 18:30 hasta las 20:30 @Itnig
 
 ## LINKS
 - [Website](https://www.freecodecamp.org/)
