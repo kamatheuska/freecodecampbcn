@@ -44,6 +44,9 @@ Nicolas Ramirez
 
 ## Questions
 
+### Do I need to sign up before coming to a meetup?
+No need
+
 ### What is the minimum level to join a meetup?
 There is none, any level is fine. There are people present from all kind of levels that can help each other. Any small or simple question is a good question. Don't be afraid to ask silly questions, for most this an entire new field that they're exploring. There is no prestige.
 
