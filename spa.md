@@ -44,6 +44,9 @@ Nicolas Ramirez
 
 ## Preguntas
 
+### ¿Necesito registrarme antes de venir a los meetups?
+No, no es necesario.
+
 ### ¿Cuál es el nivel mínimo para asistir al meetup?
 No lo hay, puedes venir tengas el nivel que tengas. Viene gente de todos los niveles que se ayudan los unos a los otros. No tengas vergüenza de preguntar, no hay preguntas tontas. Para la mayoría la programación es algo nuevo que están empezando a explorar, es normal tener dudas.
 
