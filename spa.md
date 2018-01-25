@@ -11,7 +11,7 @@ Bienvenidos a FreeCodeCamp Barcelona. Cualquier persona que quiera aprender a pr
 Tengas el nivel de experiencia que tengas, te animamos a nuestro meetup para aconsejar, ayudar o enseñar a los estudiantes de FreeCodeCamp.
 
 ## Próximo evento
-Martes, 23 de enero del 2018 de las 18:30 hasta las 20:30. @Itnig
+Martes, 6 de febrero del 2018 de las 18:30 hasta las 20:30. @Itnig
 
 También tenemos un calendario en Google Calendar para ver los próximos eventos:
  - [Google Calendar](https://calendar.google.com/calendar/b/1?cid=OG9ma3E2dHJkb3Nvb2tkbTZlM2JnZWFrZ2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
@@ -66,6 +66,7 @@ No, no es necesario. Es cierto que hay estudiantes de distintas partes del mundo
 Ponte en contacto con uno de los organizadores. Trataremos tu feedback con el mayor respeto y anonimato. Estamos abiertos al feedback de la comunidad y si has tenido alguna experiencia negativa te agradeceríamos que la compartieras. Queremos ser una comunidad abierta y respetuosa. Si sientes que no es así, por favor ponte en contacto con nosotros.
 
 ## Eventos pasados
+- Martes, 23 de enero del 2018 de las 18:30 hasta las 20:30. @Itnig
 - Martes, 9 de Enero del 2018 de las 18:30 hasta las 20:30 @Itnig
 
 ## LINKS
