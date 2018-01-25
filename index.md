@@ -11,7 +11,7 @@ Welcome to FreeCodeCamp Barcelona. Anyone that wants to learn to code is welcome
 People with any level of experience are more than welcome to advice, assist or coach the FreeCodeCamp students. 
 
 ## Next Event
-Tuesday, 23th of January 2018 from 18:30 till 20:30 @Itnig
+Tuesday, 6th of February 2018 from 18:30 till 20:30 @Itnig
 
 We also have Google Calendar to see upcoming events:
  - [Google Calendar](https://calendar.google.com/calendar/b/1?cid=OG9ma3E2dHJkb3Nvb2tkbTZlM2JnZWFrZ2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
@@ -66,6 +66,7 @@ No you don't, it is true that the students exists out of a very international mi
 Please contact one of the organizers. We will treat your feedback with absolute anonymity and respect. We're open for any feedback from the community and if you had any negative experiences, please do share. We want to be a welcoming and open community with mutual respect. If you feel this was not the case, please contact us.
 
 ## Past Events
+- Tuesday, 23th of January 2018 from 18:30 till 20:30 @Itnig
 - Tuesday, 9th of January 2018 from 18:30 till 20:30 @Itnig
 
 ## LINKS
