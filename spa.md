@@ -1,4 +1,4 @@
-You can find the English version [here](https://segersian.github.io/freecodecampbcn)
+You can find the English version [here](https://segersian.github.io/freecodecampbcn) i la versió en català [aqui](https://segersian.github.io/freecodecampbcn/cat).
 
 ## Acerca de FreeCodeCamp
 
@@ -26,7 +26,7 @@ Carrer d'Àlaba 61,
 
 [google maps](https://goo.gl/maps/yeix8tqJF7M2)
 
-Nota : Puede que tengas que tocar el timbre para entrar. Toma el ascensor al 5to piso.
+Nota : Puede que tengas que tocar el timbre para entrar. Toma el ascensor al 5º piso.
 
 ## Contacto 
 
